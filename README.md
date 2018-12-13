@@ -16,13 +16,13 @@ rootLogger 指定log打印源，DEBUG为默认打印级别<br/>
 
 log4j.logger.org.apache.kafka 打印源为kafka时指定log默认打印级别，不设置不会打印log到kafka
 
-```
+``` properties
 log4j.rootLogger=DEBUG,console,file,kafka
 log4j.logger.org.apache.kafka=WARN
 ```
 #### 打印源为控制台
 
-```
+``` properties
 #输出日志到控制台
 log4j.appender.console=org.apache.log4j.ConsoleAppender
 log4j.appender.console.Threshold=all
