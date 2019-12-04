@@ -105,8 +105,8 @@ LoggerFactory.getName("file_log")获取file打印源
 
 ## 拓展
 [json格式log打印](https://github.com/joyang1/slf4j4json) <br/>
-[json格式log打印详细介绍](http://blog.tommyyang.cn/2018/08/29/JsonLoggerForJava/)
+[json格式log打印详细介绍](https://blog.tommyyang.cn/2018/08/29/JsonLoggerForJava-2018/)
 
 ## 讨论
 有问题欢迎大家指正，在我的博客进行评论、讨论。<br/>
-地址：[log4j配置文件说明](http://blog.tommyyang.cn/2018/12/09/log4j%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%95%B4%E7%90%86/)
+地址：[log4j配置文件说明](https://blog.tommyyang.cn/2018/12/09/log4j%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%95%B4%E7%90%86-2018/)
